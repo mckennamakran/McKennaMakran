@@ -1,6 +1,6 @@
 # ✨Welcome to my little corner of the internet!✨
 
-I’m McKenna ❤, a coder who sees every dataset as a story and every project as a chance to turn “what if?” into “look what I made.” I dive into AI/ML to understand the patterns behind our world... and maybe leave it a little smarter than I found it 🙃 
+I’m McKenna Makran ❤, a coder who sees every dataset as a story and every project as a chance to turn “what if?” into “look what I made.” I dive into AI/ML to understand the patterns behind our world... and maybe leave it a little smarter than I found it 🙃 
 
 ---
 
