@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=260&text=Hi,%20I'm%20McKenna&fontSize=60&fontAlign=50&fontAlignY=50&textBg=false)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=260&text=Hi,%20I'm%20McKenna&fontSize=60&fontAlign=50&fontAlignY=50&textBg=false" alt="header">
+</p>
+
 
 # ✨Welcome to my little corner of the internet!✨
 
@@ -8,26 +11,6 @@ I’m McKenna Makran ❤, a coder who sees every dataset as a story and every pr
 Bachelor of Science in Information Technology (Final Year),
 <br>Kwa Zulu-Natal,
 <br>South Africa
-
-## 🌼 Professional Interests
-🧪Data Science
-<br>🤖Machine Learning 
-<br>🧠Artificial Intelligence
-
-## 🌺 A FEW Reasons You Should Hire Me 
-- I have a BIG personality  
-- I'm funny  
-- I’m a fast learner  
-- I write code that mostly works on the first try  
-- I’m curious (sometimes too curious)  
-- I thrive under deadlines, and can turn lemons into chocolate cake  
-- I care about people, which means your current employees will love me  
-- I adapt quickly to new tools and tech  
-- I value growth and learning over ego  
-- I’m dependable  
-- I have *'Honor, Courage & Commitment'* drilled in my DNA  
-- And most importantly, I always give everything my all  
-
 
 ## 💻 Tech Stack
 
@@ -52,14 +35,31 @@ Bachelor of Science in Information Technology (Final Year),
 
 </div>
 
+## 🌼 Professional Interests
+🧪Data Science
+<br>🤖Machine Learning 
+<br>🧠Artificial Intelligence
+
+## 🌺 A FEW Reasons You Should Hire Me 
+- I have a BIG personality  
+- I'm funny  
+- I’m a fast learner  
+- I write code that mostly works on the first try  
+- I’m curious (sometimes too curious)  
+- I thrive under deadlines, and can turn lemons into chocolate cake  
+- I care about people, which means your current employees will love me  
+- I adapt quickly to new tools and tech  
+- I value growth and learning over ego  
+- I’m dependable  
+- I have *'Honor, Courage & Commitment'* drilled in my DNA  
+- And most importantly, I always give everything my all  
 
 ## 🏆 GitHub Stuff
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mckennamakran&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mckennamakran&theme=radical&utcOffset=8) 
 
-![](https://github-profile-trophy.vercel.app/?username=mckennamakran&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-fork-two.vercel.app/?username=mckennamakran&theme=monokai)
 
-![](https://github-contributor-stats.vercel.app/api?username=mckennamakran&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## 💬 My Favourite Quote
