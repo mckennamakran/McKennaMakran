@@ -53,9 +53,6 @@ Bachelor of Science in Information Technology (Final Year),
 </div>
 
 
-
-
-
 ## 🏆 GitHub Stuff
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mckennamakran&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mckennamakran&theme=radical&utcOffset=8) 
@@ -69,8 +66,5 @@ Bachelor of Science in Information Technology (Final Year),
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1050&pause=4000&backgroundColor=%23000000&backgroundOpacity=0&lines=%5B%7B%22text%22%3A%22%5C%22We+are+the+music+makers%2C+and+we%5Cnare+the+dreamers+of+dreams%5C%22+%5Cn%7EWilly+Wonka%22%2C%22font%22%3A%22%22%2C%22color%22%3A%22%23f9489e%22%2C%22typingSpeed%22%3A0.06666666666666667%2C%22deleteSpeed%22%3A0.05%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 
-
----
 [![](https://visitcount.itsvg.in/api?id=mckennamakran&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
