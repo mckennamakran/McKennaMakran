@@ -48,9 +48,9 @@ Bachelor of Science in Information Technology (Final Year),
 - I’m curious (sometimes too curious)  
 - I thrive under deadlines, and can turn lemons into chocolate cake  
 - I care about people, which means your current employees will love me  
-- I adapt quickly to new tools and tech  
+- I adapt quickly to new tools and tech
 - I value growth and learning over ego  
-- I’m dependable  
+- I’m dependable, however I will not make/bring/buy you coffee  
 - I have *'Honor, Courage & Commitment'* drilled in my DNA  
 - And most importantly, I always give everything my all  
 
