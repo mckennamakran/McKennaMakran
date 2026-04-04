@@ -16,6 +16,42 @@ Bachelor of Science in Information Technology (Final Year),
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="AWS Cloud Foundations" src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="AWS Identity and Access Management" src="https://img.shields.io/badge/AWS%20IAM-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon Auto Scaling" src="https://img.shields.io/badge/Amazon%20Auto%20Scaling-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon CloudFront" src="https://img.shields.io/badge/Amazon%20CloudFront-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon CloudWatch" src="https://img.shields.io/badge/Amazon%20CloudWatch-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon CloudTrail" src="https://img.shields.io/badge/Amazon%20CloudTrail-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon EBS" src="https://img.shields.io/badge/Amazon%20EBS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon EFS" src="https://img.shields.io/badge/Amazon%20EFS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon ELB" src="https://img.shields.io/badge/Amazon%20ELB-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=amazon-rds&logoColor=white"/>
+
+  <img alt="Amazon Route 53" src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+
+  <img alt="Amazon SageMaker" src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+
+  <img alt="AWS CLI" src="https://img.shields.io/badge/AWS%20CLI-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Expo Go" src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white"/>
@@ -24,6 +60,11 @@ Bachelor of Science in Information Technology (Final Year),
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DFE1"/>
+
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="JupyterLab" src="https://img.shields.io/badge/JupyterLab-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img alt="Mobile Development" src="https://img.shields.io/badge/Mobile%20Development-02569B.svg?style=for-the-badge"/>
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -41,6 +82,7 @@ Bachelor of Science in Information Technology (Final Year),
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img alt="TextBlob" src="https://img.shields.io/badge/TextBlob-NLP%20Library-6A5ACD?style=for-the-badge"/>
+
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 
