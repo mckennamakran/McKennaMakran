@@ -16,42 +16,6 @@ Bachelor of Science in Information Technology (Final Year),
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="AWS Cloud Foundations" src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="AWS Identity and Access Management" src="https://img.shields.io/badge/AWS%20IAM-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon Auto Scaling" src="https://img.shields.io/badge/Amazon%20Auto%20Scaling-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon CloudFront" src="https://img.shields.io/badge/Amazon%20CloudFront-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon CloudWatch" src="https://img.shields.io/badge/Amazon%20CloudWatch-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon CloudTrail" src="https://img.shields.io/badge/Amazon%20CloudTrail-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-
-  <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon EBS" src="https://img.shields.io/badge/Amazon%20EBS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon EFS" src="https://img.shields.io/badge/Amazon%20EFS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon ELB" src="https://img.shields.io/badge/Amazon%20ELB-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=amazon-rds&logoColor=white"/>
-
-  <img alt="Amazon Route 53" src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-
-  <img alt="Amazon SageMaker" src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
-
-  <img alt="AWS CLI" src="https://img.shields.io/badge/AWS%20CLI-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Expo Go" src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white"/>
@@ -88,6 +52,7 @@ Bachelor of Science in Information Technology (Final Year),
 
 </div>
 
+
 ## 🌼 Professional Interests
 🧪Data Science
 <br>🤖Machine Learning 
@@ -113,6 +78,30 @@ Bachelor of Science in Information Technology (Final Year),
 
 ![](https://github-profile-trophy-fork-two.vercel.app/?username=mckennamakran&theme=monokai)
 
+## ☁️ Amazon Tech Stack
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="AWS Cloud Foundations" src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="AWS Identity and Access Management" src="https://img.shields.io/badge/AWS%20IAM-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon Auto Scaling" src="https://img.shields.io/badge/Amazon%20Auto%20Scaling-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon CloudFront" src="https://img.shields.io/badge/Amazon%20CloudFront-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon CloudWatch" src="https://img.shields.io/badge/Amazon%20CloudWatch-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon CloudTrail" src="https://img.shields.io/badge/Amazon%20CloudTrail-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon EBS" src="https://img.shields.io/badge/Amazon%20EBS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon EFS" src="https://img.shields.io/badge/Amazon%20EFS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon ELB" src="https://img.shields.io/badge/Amazon%20ELB-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=amazon-rds&logoColor=white"/>
+  <img alt="Amazon Route 53" src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img alt="Amazon SageMaker" src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+  <img alt="AWS CLI" src="https://img.shields.io/badge/AWS%20CLI-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+</div>
 
 
 ## 💬 My Favourite Quote
